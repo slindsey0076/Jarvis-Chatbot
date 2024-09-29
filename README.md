@@ -62,16 +62,7 @@ python Chatbot.py
   
 ## Challenges Faced
 
-During development, the team encountered several challenges:
+During development, I encountered several challenges:
 - **API Integration**: Initial issues with the OpenAI prompt response, which required debugging and corrections.
 - **Outdated Libraries**: Initially planned to use ChatterBot, but it was deprecated, leading to switching to the OpenAI API.
 
-## Future Enhancements
-
-- **Voice Integration**: Adding speech-to-text and text-to-speech features for more dynamic interactions.
-- **Memory Feature**: Enhancing Jarvis's ability to remember past interactions during a session.
-- **Task Management**: Allowing Jarvis to assist with scheduling, reminders, and task tracking.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
